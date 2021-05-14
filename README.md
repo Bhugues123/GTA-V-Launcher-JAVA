@@ -1,6 +1,5 @@
 ## Launcher Java GTA V
 
-Je viens vers vous aujourd'hui pour vous partager une fonctionnalité qui pourrait vous intéresser.
 Développant des Launchers Java, j'ai donc déjà créer des launchers d'installation et de lancement de jeu pour du GTA V ainsi que du Minecraft.
 
 ## **Fonctionnalités possibles :**
