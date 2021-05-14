@@ -14,4 +14,4 @@ Développant des Launchers Java, j'ai donc déjà créer des launchers d'install
 
 Voici un exemple de launcher https://www.youtube.com/watch?v=Yha6X7yTDGk
 
-Si vous souhaitez avoir plus d'informations vous pouvez directement me contacter via mon discord : https://discord.gg/mVX3VjceEj
+Si vous souhaitez avoir plus d'informations vous pouvez directement me contacter via mon discord : https://discord.gg/32hXuqJrf9
